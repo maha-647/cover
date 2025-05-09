@@ -141,7 +141,7 @@ Publish the website in the LocalHost.
                 <hr style="color:blanchedalmond">
             </div>
             <div class="author">
-               <p><b>VISVES H</b></p>
+               <p><b>Maha</b></p>
             </div>
             <div class="pub">
                 SEC
@@ -160,7 +160,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](<Screenshot (21).png>)
+![image](https://github.com/user-attachments/assets/419b0093-1fbc-4ec0-9442-6998ac3ab1c6)
+
 
 
 ## RESULT:
